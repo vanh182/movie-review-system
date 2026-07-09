@@ -1,4 +1,4 @@
-# Movie_reviews
+# movie-review-system
 
 Sử dụng MongoDB, NodeJS, ExpressJS và Retact 
 
